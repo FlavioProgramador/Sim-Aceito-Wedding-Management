@@ -5,7 +5,6 @@ Sistema completo para gestão de casamentos desenvolvido como projeto final na *
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-5.2.9-green.svg)](https://www.djangoproject.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
-[![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](#)
 
 ---
 
@@ -51,8 +50,8 @@ Sistema web desenvolvido para auxiliar cerimonialistas e organizadores de evento
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Rafaelp122/wedding_management.git
-cd wedding_management
+git clone https://github.com/FlavioProgramador/Sim-Aceito-Wedding-Management.git
+cd Sim-Aceito-Wedding-Management
 
 # Execute com Docker Compose
 docker compose -f docker/docker-compose.yml up --build
@@ -67,8 +66,8 @@ docker compose -f docker/docker-compose.yml up --build
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Rafaelp122/wedding_management.git
-cd wedding_management
+git clone https://github.com/FlavioProgramador/Sim-Aceito-Wedding-Management.git
+cd Sim-Aceito-Wedding-Management
 
 # Crie e ative o ambiente virtual
 python -m venv venv
